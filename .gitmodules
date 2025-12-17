@@ -1,3 +1,4 @@
 [submodule "lerobot"]
 	path = lerobot
-	url = https://github.com/EmreAdabag/lerobot/tree/text
+	url = https://github.com/EmreAdabag/lerobot.git
+	branch = text
